@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "HelloWorldApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8888,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.4.2",
+    "jwtSecretKey": "OWJhZjYzYzhhMDAzODZhMmRkODgzNzM2MmJiZjc0YWRkNDRjNTEwMzJkM2NiNmQ3NWI0YzVlYjhiNGEwM2Y3ZDY1MjFmMzZkY2RkYzFmYzM1MDFiZGViY2Y5YWVmNGYwZGM0MmIzZDhiNTNlZTgwMzU3Zjg1ODFiYTkxYzcxMDg="
+  },
+  "git-provider": "GitHub",
+  "git-company": "homeroctavares",
+  "repository-name": "hello-world-application"
+}
